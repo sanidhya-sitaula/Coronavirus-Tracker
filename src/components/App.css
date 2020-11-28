@@ -1,0 +1,45 @@
+
+
+
+.bannerTitle{
+    text-align: center;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-family: 'Red Rose', cursive;
+
+}
+
+.container .banner h1{
+    margin-top:2%;
+}
+
+.container{
+    margin-left: 5%;
+    margin-right:5%;
+    height: 100vh;
+}
+.lower-part{
+    margin-top:4%;
+}
+
+.dashboard{
+    color: #efefef;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('dashboard.jpg');
+    background-position: center;
+    height:auto;
+}
+
+table{
+    overflow-y: scroll;
+}
+
+
+.graph{
+    margin-top:7%;
+    margin-bottom: 4%;
+}
+
+.testing{
+    margin-bottom : 5%;
+    font-family: 'Lato';
+}
